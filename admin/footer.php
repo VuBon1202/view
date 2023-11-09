@@ -135,7 +135,7 @@
                     <div class="input-group mb-3">
                         <input type="text" class="form-control " placeholder="Nhập email của bạn"
                             aria-label="Recipient's username" aria-describedby="basic-addon2">
-                        <span class="input-group-text text-white bg-danger" id="basic-addon2">ĐĂNG KÝ</span>
+                        <span class="input-group-text text-white bg-danger" id="basic-addon2">ĐĂNG KÝ </span>
                     </div>
                     <div class="mt-4">
                         <span class="box50 bg-dark"><i class="fa-brands fa-facebook text-primary fs-2"></i></span>

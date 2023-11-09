@@ -50,7 +50,7 @@
                                     </div>
                                 </div>
                                 <div class="col-10 ps-3">
-                                    Tư vấn hỗ trợ <br> <strong class="text-danger">0345497282</strong>
+                                    Tư vấn hỗ trợ <br> <strong class="text-danger">0345497282 </strong>
                                 </div>
                             </div>
                         </div>

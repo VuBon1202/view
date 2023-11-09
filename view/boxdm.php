@@ -7,7 +7,7 @@
                             <li class="list-group-item"><a href="">Sữa rửa mặt</a></li>
                             <li class="list-group-item"><a href="">Sữa tắm</a></li>
                             <li class="list-group-item"><a href="">Nước tẩy trang</a></li>
-                            <li class="list-group-item"><a href="">Nước hoa</a></li>
+                            <li class="list-group-item"><a href="">Nước hoa 1111</a></li>
                             
                         </div>
                         <div class="spnew" >Sản phẩm mới nhất</div>
@@ -17,7 +17,7 @@
                                 <a href="#">Son</a>
                             </div>
                             <div class="row top6">
-                                <img src="./img//sanpham//sp1.png" alt="">
+                                <img src="./img//sanpham//sp2.png" alt="">
                                 <a href="#">Son</a>
                             </div>
                             <div class="row top6">
@@ -68,8 +68,6 @@
                     border: 10px solid #DC3545 !important;
                     text-align: center;
                     border-radius: 0% !important;
-                    
-                    
                 }
 
                 .dm2{
