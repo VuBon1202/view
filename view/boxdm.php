@@ -7,7 +7,7 @@
                             <li class="list-group-item"><a href="">Sữa rửa mặt</a></li>
                             <li class="list-group-item"><a href="">Sữa tắm</a></li>
                             <li class="list-group-item"><a href="">Nước tẩy trang</a></li>
-                            <li class="list-group-item"><a href="">Nước hoa 1111</a></li>
+                            <li class="list-group-item"><a href="">Nước hoa </a></li>
                             
                         </div>
                         <div class="spnew" >Sản phẩm mới nhất</div>
